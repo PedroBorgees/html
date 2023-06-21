@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Bagel+Fat+One&display=swap');
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    font-family: 'Bagel Fat One', cursive;
+
+}
+
+p{
+    font-family: 'Bagel Fat One', cursive;
+}
+
+@font-face {
+    font-family:'nome da letra';
+    src: url();
+}
+    /*
+        Tipos de formt()
+        - opentype (otf)
+        - truetype (ttf)
+        - embedded-opentype
+        - truetype-att (apple advancede)
+        -svg
+    */
+    

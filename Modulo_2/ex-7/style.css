@@ -1,0 +1,29 @@
+.quad{
+    height: 200px;
+    width: 200px;
+    text-align: center;
+    transition: .5s ease-in-out;
+    margin: 0px 10px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+}
+
+.quad:hover{
+    background-color: yellow;
+
+}
+
+.conteiner{
+    display: flex;
+    justify-content: center;
+    height: 100vh; 
+    width: 100%;
+    align-items: center;
+}
+
+body{
+    background-color: gray;
+}
